@@ -52,5 +52,5 @@ public class Doodle {
       g.fillRect(60, 200, 80, 120); //pants
       g.setColor(Color.GRAY);
       g.fillRect(60, 320, 80, 20); //feet
-   }
+   } 
 }
