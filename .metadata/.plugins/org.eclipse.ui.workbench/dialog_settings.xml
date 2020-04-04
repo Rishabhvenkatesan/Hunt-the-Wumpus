@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<list key="workingset_selection_history">
+		<item value="Test"/>
+		<item value="Test 03/31/20"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
 </section>
